@@ -1,6 +1,6 @@
-import './ExploreContainer.css';
 import { IonButton, IonAlert } from '@ionic/react';
 import { useState } from 'react';
+import './ExploreContainer.css';
 
 interface ContainerProps { }
 
